@@ -1,3 +1,6 @@
+# Thanks to [@adrianhajdin](https://github.com/adrianhajdin)
+For making this project possible. With his amazing youtube video -> [Golds Gym](https://www.youtube.com/watch?v=KBpoBc98BwM&t=1075s)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
